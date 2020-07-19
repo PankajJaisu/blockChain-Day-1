@@ -1,0 +1,4 @@
+Block chain Day 1  1st Assignment
+
+-What is your understanding of Blockchain?
+Ans:block chain is combination of distributed database and cryptography.In block chain hacking is mostly impossible that's why  it is getting popular day by day.One Day will come when Bank will totally depended on block chain.block chain is like community every computer is connected to other computer if any transcation is done then every computer will have the record.   

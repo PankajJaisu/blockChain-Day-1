@@ -1,0 +1,6 @@
+Block chain Day 1  2nd  Assignment
+
+- What is the core problem Blockchain trying to solve?
+Ans:Distributed ledger technologies — collectively known as blockchain — have burst onto the business scene, accompanied by a significant amount of hype.1 They are widely expected to disrupt existing industries and lead to the creation of new types of companies.
+
+Some of the excitement may indeed be warranted, but only if organizations focus on how these technologies can be used to support their strategy. Without that lens, companies risk making large investments in initiatives that don’t create meaningful value.

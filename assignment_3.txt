@@ -1,0 +1,8 @@
+Block chain Day 1  3rd Assignment
+-What are the few features which Blockchain will give you?
+Ans:These are the four features of Blockchain which we are going to talk about in detail:
+
+   1] We have a public distributed ledger, which works using a hashing encryption.
+   2] Every block has a hash value, which is the digital signature of the block.
+    3]All the transactions are approved and verified on the Blockchain network using a proof-of-work consensus algorithm.
+    4]The Blockchain network utilizes the resources of the miners, who are there to validate the transactions for rewards.
